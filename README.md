@@ -28,7 +28,7 @@
 - **payments** - платежи
 - **user_events** - действия пользователя
 
-<img src="database_schema.png" alt="Схема базы данных" width="207" height="187" />
+<img src="database_schema.png" alt="Схема базы данных" width="414" height="376" />
 
 ## Структура проекта
 
