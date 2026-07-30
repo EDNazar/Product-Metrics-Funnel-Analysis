@@ -28,7 +28,7 @@
 - **payments** - платежи
 - **user_events** - действия пользователя
 
-![Схема базы данных: связи между таблицами users, ads, payments, user_events](database_schema.png)
+<img src="images/database_schema.png" alt="Схема базы данных" width="207" height="187" />
 
 ## Структура проекта
 
